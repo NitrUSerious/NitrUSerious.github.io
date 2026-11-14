@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://nitruserious.github.io/sitemap.xml
+Sitemap: https://nitruserious.github.io/mapa-guias.xml
